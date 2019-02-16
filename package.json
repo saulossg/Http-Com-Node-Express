@@ -1,0 +1,8 @@
+{
+  "name": "Http-Com-Node-Express",
+  "version": "1.0.0",
+  "description": "Estudo",
+  "main": "server.js",
+  "author": "Saulo Gomes",
+  "license": "MIT"
+}
